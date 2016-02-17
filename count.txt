@@ -1,6 +1,3 @@
-Try to count from 1 to 150.
-I will start NOTE: Numbers 150 starts from line 153 every fixing merge
-
 1
 2
 3
