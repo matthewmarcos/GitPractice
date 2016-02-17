@@ -1,2 +1,5 @@
 # GitPractice
-Practice Git for NOOBZ
+Practice Git for everyone! :)
+
+\#Friendly
+:)
